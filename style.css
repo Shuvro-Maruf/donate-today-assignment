@@ -1,0 +1,42 @@
+body {
+    font-family: 'Ibarra Real Nova', serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(226, 141, 124), tomato);
+    padding: 15px 45px;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font: aliceblue;
+}
+
+.one {
+    text-align: center;
+    padding: 100px 250px;
+    color: rgb(162, 118, 118);
+}
+
+.top-banner {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: auto;
+    height: 100vh;
+    width: 100vw;
+}
+
+.top-margin {
+    margin-top: 150px;
+}
